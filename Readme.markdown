@@ -2,6 +2,9 @@
 
 This is a widget for [Übersicht][] that displays your current warnings, errors and unknown stati from your [Sensu][] instance.
 
+[Übersicht]: http://tracesof.net/uebersicht/
+[Sensu]: https://sensuapp.org
+
 ## Details
 
 If the status:
