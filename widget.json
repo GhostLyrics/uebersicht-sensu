@@ -1,0 +1,6 @@
+{
+  "name": "Sensu Overview",
+  "description": "Displays your Sensu errors, warnings and unknown stati.",
+  "author": "Alexander Skiba",
+  "email": "mail@ghostlyrics.net"
+}
