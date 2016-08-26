@@ -127,7 +127,7 @@ td
   border-radius: 50%
 
 .warn .disc
-  background-color: rgba(249,186,70,0.6)
+  background-color: rgba(249,186,70,1)
 
 .error .disc
   background-color: rgba(234,84,67,1)
